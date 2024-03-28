@@ -1,1 +1,8 @@
-# beomam
+ĐẠI HỌC THÁI NGUYÊN
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG
+ĐỀ TÀI
+“PHÂN TÍCH Ý KIẾN CỦA NGƯỜI DÙNG KHI SỬ DỤNG THỰC PHẨM”
+GVHD: TS.Trần Văn Khánh
+SVTH: Hoàng Văn Thảo
+Mã sv: DTC20H4802010080
+Lớp: CNTT K19 CLC
